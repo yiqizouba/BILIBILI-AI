@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1 align="center">
-
+  
 BiliBiliTool
 
 </h1>
@@ -96,7 +96,7 @@ Github Actions 是微软（巨硬）收购 G 站之后新增的内置 CI/CD 方�
 
 Ⅲ. **开启 Actions 并触发每日自动执行**
 
-都配置好后，请手动开启 Actions，执行一次工作流，验证是否可以正常工作，操作步骤如下图所示：
+都配置好后，请手动开启 Actions，执行一次工作流，验证是否可以正常工作，操作步骤如下图所示 ：
 
 ![Actions图示](https://cdn.jsdelivr.net/gh/RayWangQvQ/BiliBiliTool.Docs@main/imgs/run-workflow.png)
 
